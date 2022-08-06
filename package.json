@@ -1,0 +1,8 @@
+{
+  "name": "@evacu8/randomIDgenerator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:evacu8/randomIDgenerator",
+  "author": "Krzysztof Potocki <kpotocki89@gmail.com>",
+  "license": "MIT"
+}
